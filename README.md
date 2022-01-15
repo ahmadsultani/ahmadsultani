@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahmadsultani
-- 👀 I’m interested in mobile and Web development, software engineering, etc  
+- 👀 I’m interested in Mobile and Web Development, Data Engineering, Cyber Security, etc  
 - 🌱 I’m currently learning Informatics Engineering
-- 💞️ I’m looking to collaborate on Google, GoTo
 - 📫 How to reach me:
      ahmadsultanidayanullah@gmail.com
 
