@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ahmadsultani
-- 👀 I’m interested in Mobile and Web Development, Data Engineering, Cyber Security, etc  
-- 🌱 I’m currently learning Informatics Engineering
-- 📫 How to reach me:
-     ahmadsultanidayanullah@gmail.com
+1st year, Informatics Engineering, into software and web development, data engineering, cyber security, etc.
+
+How to reach me:
+ahmadsultanidayanullah@gmail.com
 
 <!---
 ahmadsultani/ahmadsultani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
