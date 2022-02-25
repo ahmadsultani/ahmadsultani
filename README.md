@@ -1,5 +1,5 @@
 1st year in Informatics Engineering.
-I'm into software and web development, data engineering, cyber security, etc.
+I'm into mobile and web development, data science, machine learning, cyber security, etc.
 
 How to reach me:
 ahmadsultanidayanullah@gmail.com
