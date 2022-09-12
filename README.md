@@ -1,4 +1,5 @@
-"A person who pursue clean and neat code, also an efficiency seeker".
+"Always craving for clean code, also an efficiency seeker"
+
 I'm into mobile and web development, interested in machine learning.
 
 How to reach me:
