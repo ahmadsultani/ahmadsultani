@@ -1,6 +1,6 @@
-"Always craving for clean code, also an efficiency seeker"
+"Cleanliness and efficiency seeker"
 
-I'm into mobile and web development, interested in machine learning.
+I'm a Front End Developer, interested in Data Science.
 
 How to reach me:
 ahmadsultanidayanullah@gmail.com
