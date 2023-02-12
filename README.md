@@ -1,6 +1,6 @@
 "Cleanliness and efficiency seeker"
 
-I'm a Front End Developer, interested in Data Science.
+I'm a Front End Developer, Currently Learning for Backend Development too. I'm also interested in Data Science.
 
 How to reach me:
 ahmadsultanidayanullah@gmail.com
