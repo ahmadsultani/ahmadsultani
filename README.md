@@ -1,7 +1,4 @@
-"Cleanliness and efficiency seeker"
-
-I'm a Front End Developer, Currently Learning for Backend Development and Cloud Computing
-.
+I'm a Front End Developer. Currently Learning for Cloud Computing
 
 How to reach me:
 ahmadsultanidayanullah@gmail.com
